@@ -1,2 +1,3 @@
-# midu-react
-Curso de React de Midudev
+# React Platzi 2025
+
+Ruta de aprendizaje 2025.
